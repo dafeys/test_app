@@ -69,3 +69,7 @@ group :test do
   gem "selenium-webdriver"
 
 end
+
+gem "tailwindcss-rails", "~> 2.0"
+gem 'simple_form', git: 'https://github.com/loqimean/simple_form.git'
+gem 'erb_lint'
